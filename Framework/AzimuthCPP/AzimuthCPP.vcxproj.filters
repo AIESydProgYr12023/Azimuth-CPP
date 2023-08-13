@@ -99,6 +99,9 @@
     <ClCompile Include="src\Collections\HashTable.cpp">
       <Filter>Source Files\Collections</Filter>
     </ClCompile>
+    <ClCompile Include="src\Resources\ImageResource.cpp">
+      <Filter>Source Files\Resources</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\Azimuth\Application.h">
@@ -172,6 +175,9 @@
     </ClInclude>
     <ClInclude Include="include\Azimuth\Patterns\Prototype.h">
       <Filter>Header Files\Patterns</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Azimuth\Resources\ImageResource.h">
+      <Filter>Header Files\Resources</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
